@@ -2,6 +2,9 @@
 {// Třída je POUZE předpis (postup, návod) jak se objekty budou tvořit
     public class Pocitac
     {
+        /// <summary>
+        /// Toto je dokumentační komentář :)
+        /// </summary>
         private int _ram;
         private string _grafika;
         private string _procesor;
